@@ -65,7 +65,6 @@ hr {
 	color: #88bb45;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	text-transform: uppercase;
 	color: #bbbbbb;
 	font-size: 12px;
 	letter-spacing: 1px;
@@ -85,8 +84,8 @@ hr {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #f5ef0c;
-	border-color: #f5ef0c;
+    background-color: #000000;
+    border-color: #f5ef0c;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -282,7 +281,7 @@ header p {
 
 @media (max-width: 603px) {
 #menu.navbar-default {
-	background-color: rgb(93, 91, 91);
+	background-color: #000000;
 }
 label {
 	float: none !important
