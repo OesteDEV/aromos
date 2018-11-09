@@ -400,3 +400,7 @@ label {
     position: relative;
     top: -10px;
 }
+
+.right{
+    text-align: left;
+}
