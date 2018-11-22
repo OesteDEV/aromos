@@ -403,3 +403,6 @@ label {
 .right{
     text-align: left;
 }
+.pad{
+    padding-bottom: 50px;
+}
