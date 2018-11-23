@@ -171,7 +171,8 @@ header p {
     margin-left: 5px;
 }
 .carousel .thumb-wrapper {
-	text-align: center;
+    text-align: center;
+    padding: 0.5em;
 }
 .carousel .thumb-content {
 	padding: 15px;
