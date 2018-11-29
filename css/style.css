@@ -134,6 +134,8 @@ header p {
 	margin: 50px auto;
 	padding: 0 4em;
 }
+.carousel2 {
+}
 .carousel .item {
     text-align: center;
 	overflow: hidden;
@@ -378,8 +380,6 @@ label {
     }
 }
 
-
-
 .category-child .post-content span {
     color: #fff;
     font-size: x-large;
@@ -406,4 +406,10 @@ label {
 }
 .pad{
     padding-bottom: 50px;
+}
+
+.facebook {
+    color: blue;
+    font-size: large;
+    font-weight: 700;
 }
