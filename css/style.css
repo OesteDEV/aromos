@@ -608,3 +608,6 @@ label {
     -webkit-transform : scale(2);   /* Chrome - Safari */
     -o-transform : scale(2);        /* Opera */
 }
+.white {
+  color: white;
+}
